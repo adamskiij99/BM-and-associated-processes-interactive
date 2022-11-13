@@ -1,6 +1,8 @@
 # Brownian Motion
 Perpetual Brownian motion with toggles, parameters, and a reset button.
 
+[View in browser.](https://openprocessing.org/sketch/1736342)
+
 Features:
 - Reset button
 - Toggle: simple moving average (variable parameter, default 30)
